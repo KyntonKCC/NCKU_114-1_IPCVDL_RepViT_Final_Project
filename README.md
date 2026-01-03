@@ -1,3 +1,11 @@
+# NCKU_114-1_IPCVDL_RepViT_Final_Project
+
+**Full Report:** [HackMD](https://hackmd.io/@KyntonKCC/ipcvdl_final_project)
+> **Add Key Features:**
+> - **Performance Evaluation:** Latency & FPS Benchmark (CNN vs. ViT)
+> - **Visual Interpretability:** Grad-CAM Heatmap Analysis
+> - **Architecture:** Structural Re-parameterization
+
 # [RepViT-SAM: Towards Real-Time Segmenting Anything](https://arxiv.org/abs/2312.05760)
 
 # [RepViT: Revisiting  Mobile CNN From ViT Perspective](https://arxiv.org/abs/2307.09283)
